@@ -10,7 +10,9 @@
     "type": "git",
     "url": "git://github.com/yivo/gulp-lazyload.git"
   },
-  "author": "Yaroslav Konoplov",
+  "author": {
+    "name": "Yaroslav Konoplov"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/yivo/gulp-lazyload/issues"
